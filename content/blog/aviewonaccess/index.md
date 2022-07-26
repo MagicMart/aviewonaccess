@@ -1,6 +1,6 @@
 ---
-title: A View On Acess
-date: "July 7 2022"
+title: A View On Access
+date: '2022-07-26T20:01:47.307Z'
 ---
 
 # A View on Access

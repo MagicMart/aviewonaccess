@@ -3,10 +3,12 @@ module.exports = {
     title: `A View on Access`,
     author: {
       name: `Tim Calvert`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `who is a skilled consultant in access, 
+      inclusion and audio description, and is a highly qualified audio producer 
+      with a BA honours degree from Staffordshire University.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://aviewonaccess.gatsbyjs.io/`,
+    siteUrl: `https://aviewonaccess.co.uk/`,
     social: {
       twitter: `kylemathews`,
     },
