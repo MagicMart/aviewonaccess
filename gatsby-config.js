@@ -7,10 +7,11 @@ module.exports = {
       inclusion and audio description, and is a highly qualified audio producer 
       with a BA honours degree from Staffordshire University.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A view on access was developed to create a better sense of access and
+     inclusion in the arts and entertainment sector.`,
     siteUrl: `https://aviewonaccess.co.uk/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `calvertconcepts`,
     },
   },
   plugins: [
