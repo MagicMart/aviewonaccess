@@ -3,8 +3,6 @@ title: A View On Access
 date: '2022-07-26T20:01:47.307Z'
 ---
 
-# A View on Access
-
 A View on Access was created in 2015 in conjunction with the Audio Description Association and from 2016 to June 2022 had a home on RNIB Connect. It was developed to create a better sense of access and inclusion in the arts and entertainment sector, that includes theatre, cinema, museums and galleries, attractions, conventions, events and sport for those blind and partially sighted - but also to provide an audio platform for other disabilities.
 
 Over the last 7 Years, **A View on Access** has gone from strength to strength, developing relationships with relevant companies, charities, venues and organisations in order to create better awareness of access and audio description.
