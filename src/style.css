@@ -331,3 +331,7 @@ a:focus {
     list-style-position: inside;
   }
 }
+
+html {
+  background-image: url('images/v748-toon-111.jpg');
+}
