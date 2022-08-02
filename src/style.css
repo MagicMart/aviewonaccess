@@ -334,4 +334,5 @@ a:focus {
 
 html {
   background-image: url('images/v748-toon-111.jpg');
+  background-size: cover;
 }
