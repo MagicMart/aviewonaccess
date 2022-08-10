@@ -25,12 +25,10 @@ const Home = ({ data, location }) => {
         <p>
           <span className="bold">A View on Access</span> is produced and presented by <em>Tim Calvert</em> of <em>Calvert Creative Concepts</em> in collaboration with the Audio Description Association: Showcasing the best of entertainment, arts and culture around the UK from an accessible point of view; highlighting the audio description available and how inclusive content and venues are. This is presented in the form of an audio podcast feature. <a href="https://audioboom.com/channels/5082711/">Listen to Tim on <span className="bold">Audioboom</span></a>
         </p>
-        <p>
-          For information, to make a suggestion or to get involved email: 
-          <address>
-            <a href="mailto:aviewonaccess@gmail.com">aviewonaccess@gmail.com</a>
-          </address>
-        </p>
+        <p>For information, to make a suggestion or to get involved email:</p>
+        <address>
+          <a href="mailto:aviewonaccess@gmail.com">aviewonaccess@gmail.com</a>
+        </address>
       </article>
       <article>
         <h2>About Tim Calvert</h2>
