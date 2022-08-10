@@ -159,6 +159,10 @@ h6 > a {
 
 /* Prose */
 
+.bold {
+  font-weight: bold;
+}
+
 p {
   line-height: var(--lineHeight-relaxed);
   --baseline-multiplier: 0.179;
